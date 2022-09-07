@@ -1,16 +1,16 @@
 
 
 - 👋 Hi, I’m @Luichoo
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning SQL, C#, python, C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, on git or discord l u i c h o#8060
+- 👀 Searching for oportunities
+- 🌱 I’m currently learning all i can deal :trident: 
+- 💞️ Random fact, i love cats 
+- 📫 Current goal: have a coding-related internship
 
 ### Contact me  
 
 
 <a href="https://www.linkedin.com/in/luis-antonio-blanco-conde-247319210/">          
-<img align="left" alt="VSCode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" />  
+<img align="left" alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" />  
 </br>
   
 
