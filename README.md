@@ -41,5 +41,5 @@
 </br>
 </br>
 <p align="center">
-<img alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luichoo&hide=Makefile&theme=tokyonight">
+<img alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luichoo&hide=Makefile,shell&theme=tokyonight">
 </p>
