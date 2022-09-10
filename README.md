@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning all i can deal :trident: 
 - 💞️ Random fact, i love cats 
 - 📫 Current goal: have a coding-related internship
-##
+
 
 
 ### Contact me  
@@ -22,7 +22,7 @@
 <br/>
  
 
-## 
+---  
 ### Languages and tools  
 
 <p align="center">          
