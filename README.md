@@ -1,10 +1,10 @@
 
-##     👋 Hi, I’m Luis and i love coding :)  <img align="right" alt="popcat" width="375px" height="375px" src="https://user-images.githubusercontent.com/75387331/188960023-157241e1-8cd1-4fdd-8937-368fd0e9e75b.gif" />
+## 👋 Hi, I’m Luis and i love coding :)  <img align="right" alt="popcat" width="195px" height="195px" src="https://user-images.githubusercontent.com/75387331/188960023-157241e1-8cd1-4fdd-8937-368fd0e9e75b.gif" />
 - 👀 Searching for oportunities
 - 🌱 I’m currently learning all i can deal :trident: 
 - 💞️ Random fact, i love cats 
 - 📫 Current goal: have a coding-related internship
-
+##
 
 
 ### Contact me  
@@ -22,7 +22,7 @@
 <br/>
  
 
-
+## 
 ### Languages and tools  
 
 <p align="center">          
