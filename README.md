@@ -26,7 +26,7 @@
 ### Languages and tools  
 
 <p align="center">          
-<img align="left" alt="VSCode" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; padding-top:10px;" /> 
+
  <img align="left" alt="bash" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px; padding-top:10px;" />  
 <img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px; padding-top:10px;" />  
 <img align="left" alt="Github" width="35px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px; padding-top:10px;" />  
