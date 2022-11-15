@@ -1,7 +1,7 @@
 
 ## 👋 Hi, I’m Luis and i love coding :)  <img align="right" alt="popcat" width="195px" height="195px" src="https://user-images.githubusercontent.com/75387331/188960023-157241e1-8cd1-4fdd-8937-368fd0e9e75b.gif" />
 - 👀 Searching for oportunities
-- 🌱 I’m currently learning all i can deal :trident: 
+- 🌱 I’m currently learning react and nodejs :trident: 
 - 💞️ Random fact, i love cats 
 - 📫 Current goal: have a coding-related internship
 
@@ -16,15 +16,14 @@
 <a href="https://www.instagram.com/luis.bc_/">          
 <img align="left" alt="instagram" width="26px" src="https://user-images.githubusercontent.com/75387331/188960630-94f53648-6327-4aad-822e-6f246df274f1.svg" />  
 </a>
-<a href="https://www.discordapp.com/users/519282038637985833/">          
-<img align="left" alt="discord" width="26px" src="https://user-images.githubusercontent.com/75387331/188962067-c43ea287-c5b0-42e0-bc46-6ff8c77ac407.png" />  
-</a>
+
 <br/>
  
 
 ---  
-### Languages and tools  
 
+### Languages and tools  
+<div style="padding=5px; margin=5px; justify-content=center;">
 <p align="center">          
 
  <img align="left" alt="bash" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px; padding-top:10px;" />  
@@ -45,9 +44,10 @@
 
 
 </p>
+</div>
 </br>
 </br>
-<h2></h2>
+
 </br>
 </br>
 <p align="center">
