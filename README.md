@@ -1,7 +1,7 @@
 
 ## 👋 Hi, I’m Luis and i love coding :)  <img align="right" alt="popcat" width="195px" height="195px" src="https://user-images.githubusercontent.com/75387331/188960023-157241e1-8cd1-4fdd-8937-368fd0e9e75b.gif" />
 - 👀 Searching for oportunities
-- 🌱 I’m currently learning react and nodejs :trident: 
+- 🌱 I’m currently learning deep learning and data science :trident: 
 - 💞️ Random fact, i love cats 
 - 📫 Current goal: have a coding-related internship
 
