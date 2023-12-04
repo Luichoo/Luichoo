@@ -11,9 +11,7 @@
 <a href="https://www.linkedin.com/in/luis-antonio-blanco-conde-247319210/">          
 <img align="left" alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" />  
 </a>
-<a href="https://www.instagram.com/luis.bc_/">          
-<img align="left" alt="instagram" width="26px" src="https://user-images.githubusercontent.com/75387331/188960630-94f53648-6327-4aad-822e-6f246df274f1.svg" />  
-</a>
+
 
 <br/>
  
